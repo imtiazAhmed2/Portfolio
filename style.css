@@ -218,8 +218,8 @@ header {
 
 /* About Section */
 .about-content {
-    display: flex;
-    gap: 50px;
+    display: block;
+    gap: 20px;
     align-items: center;
 }
 
@@ -251,7 +251,7 @@ header {
 .about-stats {
     flex: 1;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
