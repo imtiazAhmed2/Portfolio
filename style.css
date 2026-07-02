@@ -208,7 +208,7 @@ header {
 
 .hero-image {
     width: 30%;
-    align-items:bottom;
+    padding-top:5%;
 }
 
 .hero-image img {
